@@ -1,0 +1,21 @@
+generated: '2026-07-21'
+method: searched
+source: live probes of https://vistel.cn (only host in apis.yml; no API baseURLs exist)
+host: https://vistel.cn
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 404
+- path: /robots.txt
+  status: 404
+notes: No well-known discovery surface published. Recorded so re-runs can diff; no
+  WellKnown pointer wired in apis.yml because nothing was found.

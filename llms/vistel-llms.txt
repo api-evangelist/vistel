@@ -1,0 +1,18 @@
+# Vistel
+
+> Vistel (Beijing Zhiyuan Huitu Technology, 致远慧图) is a Beijing-based medical AI company founded in 2016 that applies computer vision and deep learning to ophthalmology — AI fundus image analysis for screening diabetic retinopathy, glaucoma, and age-related macular degeneration, plus its own fundus camera and vision-screening hardware.
+
+Vistel holds Class III medical device certification from China's NMPA and EU CE marking for its multi-disease ophthalmic diagnostic software. Its hardware line includes the RC350 portable non-mydriatic fundus camera, the RX350 fully automatic fundus camera for unmanned health kiosks, and the VS550 pediatric vision screening device. The company also offers intelligent ophthalmic image management and a telemedicine system for remote consultation and referral. Investors include Qiming Venture Partners, Cyberport Hong Kong, and Redhill Capital.
+
+Vistel publishes no public developer portal, API documentation, SDKs, or machine-readable API specifications as of 2026-07-21.
+
+## Company
+
+- [Website](https://vistel.cn): Corporate site (Chinese) — company, team, software and hardware products, research, certifications
+- [RC350 portable fundus camera](https://www.vistel.cn/hardware/RC350)
+- [RX350 automatic fundus camera](https://www.vistel.cn/hardware/RX350)
+- [VS550 vision screening device](https://www.vistel.cn/hardware/VS550)
+
+## Profile
+
+- [APIs.json profile](https://raw.githubusercontent.com/api-evangelist/vistel/refs/heads/main/apis.yml): API Evangelist network profile for Vistel
