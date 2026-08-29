@@ -7,6 +7,17 @@ description: Vistel (Beijing Zhiyuan Huitu Technology, 致远慧图) is a Beijin
   RC350 and RX350 fundus cameras and VS550 vision screener, plus telemedicine and image
   management systems. Backed by Qiming Venture Partners, Cyberport Hong Kong, and Redhill
   Capital. Vistel publishes no public developer portal or API surface.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
